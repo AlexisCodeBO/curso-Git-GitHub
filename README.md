@@ -4,7 +4,9 @@
 ------------
 
 ## Módulos
-[Instalación del entorno de trabajo](https://1drv.ms/p/s!AiFnjVLxSFpiiDbZOhD7oAeIvcTP?e=jHCopm "Instalación del entorno de trabajo")
+[Todas las diapositivas](https://1drv.ms/u/s!AiFnjVLxSFpiiFY86eBvvTeU9a8L?e=R2RWlS "Todas las diapositivas")
+
+[Flujos de trabajo - WorkFlow ](https://1drv.ms/p/s!AiFnjVLxSFpiiFQXExMCjUYZqCZi "Flujos de trabajo - WorkFlow")
 
 [I Git Fundamentos básicos](https://1drv.ms/p/s!AiFnjVLxSFpiiB-nffeWa1oN2dHE?e=xmkfMT "I Git Fundamentos básicos")
 
